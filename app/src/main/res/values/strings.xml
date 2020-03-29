@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YourContactsApp</string>
+    <string name="txtContact1">Jones, James</string>
+    <string name="txtContact2">Jacob, Alex</string>
+    <string name="btnViewContact1">View Contact</string>
+    <string name="btnViewContact2">View Contact</string>
+    <string name="txtAddress1">1 Grandrose Ave, Santa Clara, CA 95050</string>
+    <string name="txtAddress2">2 Blackburn Street, Winter Springs, FL 32708</string>
+    <string name="txtPhone1">(711) 265-9193</string>
+    <string name="txtPhone2">(519) 978-4733</string>
+    <string name="description">Contact Image</string>
+</resources>
